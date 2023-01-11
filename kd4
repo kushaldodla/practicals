@@ -1,0 +1,5 @@
+Print ( The details of MP and UP are:") 
+print CDF. loc ['MP': 'UP', 'Books': 'uniform']) 
+print ("\n")
+print (Consecutive 3 Rows and 3 Columns are:') 
+print (DF. iloc[0:3,0:3])
