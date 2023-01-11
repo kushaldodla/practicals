@@ -1,0 +1,2 @@
+create table emp (empno int(4), ename varchar(20), job varchar(20), salary int(4), doj date, department varchar(20));
+insert into emp values (1001, 'Scott', 'Manager', 90000, '2010-10-01', 'Accounts');
