@@ -1,0 +1,10 @@
+import matplotlib.pyplot as plt
+weeks=[1,2,3,4]
+onion=[45,25,32,30]
+Brinjal=[16,18,43,50]
+plt. title ("Basic Analysis")
+plt.xlable ("weeks") 
+plt.ylable ("Prices")
+plt.plot (weeks,onion,marker='D',markersize=15,markeredge color ='r') 
+Plt plot Cweeks,Brinjal)
+plt. show()
