@@ -1,0 +1,9 @@
+import pandas as pd
+D={'Toys':[7916,8508,7725,7617],
+   'Books':[61896,8208,6149,6157],
+   'Uniform':[.    }
+   'Shoes':[.  ]}
+   DF=pd.Dataframe(0,index:['AP','','','',])
+   print (" The details of AP and OD are :")
+   print (DF.loc[DF.loc['AP':'OD'])
+   print ("\n")
